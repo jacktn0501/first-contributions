@@ -24,7 +24,7 @@ This will create of copy of this repository in your account.
 
 ## Clone the repository
 
-Now clone this repo to your machine.
+Now clone this repo onto your machine.
 
 Open the GitHub Desktop app and click on the `+` on the top left.
 
